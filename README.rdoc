@@ -1,0 +1,7 @@
+== README
+
+This is a Rails boilerplate with the following things:
+* Devise
+* Mongoid
+* Bootstrap
+* Haml Rails
